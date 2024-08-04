@@ -17,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zero-max-ai&show_icons=true&locale=en&layout=compact" alt="zero-max-ai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zero-max-ai&show_icons=true&locale=en" alt="zero-max-ai" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zero-max-ai&" alt="zero-max-ai" /></p>
